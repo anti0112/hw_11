@@ -12,5 +12,9 @@ def index():
 def all_():
     return 'all'
 
+@app.route('/catalog')
+def catalog():
+    return 'catalog'
+
 
 app.run()
