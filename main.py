@@ -8,4 +8,9 @@ def index():
     return 'Главная'
 
 
+@app.route('/all')
+def all_():
+    return 'all'
+
+
 app.run()

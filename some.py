@@ -1,0 +1,3 @@
+asdfsadfsadf
+asdfsdafasd
+staticmethod
